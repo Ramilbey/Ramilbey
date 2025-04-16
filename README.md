@@ -73,7 +73,7 @@
 
 ---
 
-> 💡 *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
+> 💡 *“The most intelligent person is the one who can find solutions to problems in the simplest of ways.”*
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
