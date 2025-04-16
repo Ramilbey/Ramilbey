@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Assalomu alaykum, I'm Ramil<br>🎓 Aspiring Software Engineering  | 💻 Junior Backend Developer<
+👋 Assalomu alaykum, I'm Ramil<br>🎓 Aspiring Software Engineering  | 💻 Junior Backend Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramil-kutlimuratov)
