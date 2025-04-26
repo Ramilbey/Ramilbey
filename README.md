@@ -49,30 +49,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramilbey&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## ✍️ Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 📊 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ramilbey/count.svg" />
-</p>
-
----
-
 > 💡 *“The most intelligent person is the one who can find solutions to problems in the simplest of ways.”*
 
 <p align="center">
