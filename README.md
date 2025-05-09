@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">💫 Assalomu alaykum, I'm Ramil</h1>
-<h3 align="center">🎓 Aspiring Software Engineer | 💻 Junior Backend Developer | 🌍 Lifelong Learner</h3>
+<h3 align="center">🎓 Aspiring Software Engineer | 💻  Frontend Developer | 🌍 Lifelong Learner</h3>
 
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Writing+Clean+Code+%F0%9F%92%BB;Building+Scalable+Backends+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
@@ -9,21 +9,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ramil-kutlimuratov" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ramilbeyt505711503@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ramilbey" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 🚀 Tech Stack
 
