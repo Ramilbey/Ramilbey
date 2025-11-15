@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<!--<h1 align="center">💫 Assalomu alaykum, I'm Ramil</h1>
+
 <!-- <h3 align="center">🎓 Aspiring Software Engineer | 💻  Frontend Developer | 🌍 Lifelong Learner</h3> -->
 
 
